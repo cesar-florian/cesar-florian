@@ -1,6 +1,7 @@
 # César Florian 👨‍💻
 
 <a href="https://www.linkedin.com/in/cesar-florian"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20px" alt="linkedin"></a> &nbsp;
+<a href="https://rxresu.me/cesar-florian/cv">🖨️</a> &nbsp;
 <a href="mailto:ce.florian.27@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20px" alt="email"></a> &nbsp;
 <a href="#"><img src="https://komarev.com/ghpvc/?username=cesar-florian&color=0366d6&style=flat&label=Vistas" alt="profile-views"></a>
 
