@@ -13,13 +13,7 @@
 
 <br>
 
-## Acerca de mí
-
-### Habilidades principales
-C# / .NET • JavaScript • JQuery • Python • HTML / CSS • RabbitMQ • Bootstrap • EF • SQLServer / TSQL
-
-### Otras habilidades
-SOAP / REST • JWT / OAuth2 • Git / GitHub • Subversion • MVC • Microservicios / Alta disponibilidad • YARP / Gateway • IIS • Linux • RSA / Criptografía • Docker / Kubernetes • Clean Architecture • PlantUML • Unit Testing / Integration Testing / E2E Testing • Observabilidad / Logging / Tracing / Metrics
+## Resumen
 
 ### Tecnologías favoritas
 
