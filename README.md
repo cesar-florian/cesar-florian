@@ -17,7 +17,7 @@
 
 ### Tecnologías favoritas
 
-[![favorite-technologies](https://skillicons.dev/icons?i=cs,dotnet)](#)
+[![favorite-technologies](https://skillicons.dev/icons?i=cs,dotnet,docker,rabbitmq,)](#)
 
 <br>
 
